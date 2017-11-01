@@ -1,0 +1,13 @@
+* {
+    background-color: #d3deff;
+}
+
+#rectangle_left {
+    height: 846px;
+    background: #fcafaf;
+}
+
+#rectangle_right {
+    height: 846px;
+    background-color: #fbe597;
+}
